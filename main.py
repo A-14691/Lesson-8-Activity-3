@@ -6,7 +6,7 @@ total_num=40
 sum=mean1*total_num
 print("the sum of 40 numbers is" , sum)
 
-num2=((wrong_number)-(correct_number))
+num2= sum-((wrong_number)-(correct_number))
 print("sum-((wrong_number)-(correct_number)): ",num2)
 
 mean2= num2/total_num
